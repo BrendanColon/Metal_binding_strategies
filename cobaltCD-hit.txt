@@ -1,0 +1,458 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs24 \cf0 >Cluster 0\
+0	263aa, >pdb1mat.en... at 46%\
+1	282aa, >pdb1yj3.en... at 48%\
+2	304aa, >pdb2b3h.en... *\
+3	304aa, >pdb2b3k.en... at 100%\
+4	260aa, >pdb2evo.en... at 46%\
+5	304aa, >pdb2g6p.en... at 100%\
+6	262aa, >pdb2gg0.en... at 46%\
+7	263aa, >pdb2gg2.en... at 46%\
+8	263aa, >pdb2gg3.en... at 46%\
+9	263aa, >pdb2gg5.en... at 46%\
+10	263aa, >pdb2gg7.en... at 46%\
+11	263aa, >pdb2gg8.en... at 46%\
+12	263aa, >pdb2gg9.en... at 46%\
+13	263aa, >pdb2ggb.en... at 46%\
+14	263aa, >pdb2ggc.en... at 46%\
+15	304aa, >pdb2gz5.en... at 100%\
+16	304aa, >pdb2nq6.en... at 100%\
+17	304aa, >pdb2nq7.en... at 100%\
+>Cluster 1\
+0	387aa, >pdb1clk.en... at 67%\
+1	387aa, >pdb1qt1.en... at 67%\
+2	392aa, >pdb1xim.en... *\
+3	388aa, >pdb2gve.en... at 67%\
+4	392aa, >pdb2xin.en... at 99%\
+5	392aa, >pdb3xim.en... at 99%\
+6	386aa, >pdb4a8i.en... at 67%\
+7	386aa, >pdb4a8l.en... at 67%\
+8	386aa, >pdb4a8n.en... at 67%\
+9	386aa, >pdb4a8r.en... at 67%\
+>Cluster 2\
+0	326aa, >pdb1b59.en... *\
+1	326aa, >pdb1b6a.en... at 100%\
+2	326aa, >pdb1bn5.en... at 99%\
+3	325aa, >pdb1boa.en... at 99%\
+4	326aa, >pdb1qzy.en... at 99%\
+5	326aa, >pdb2oaz.en... at 99%\
+>Cluster 3\
+0	166aa, >pdb1bsj.en... *\
+1	165aa, >pdb1xeo.en... at 100%\
+2	166aa, >pdb2ew5.en... at 41%\
+3	166aa, >pdb2ew6.en... at 41%\
+4	163aa, >pdb2ew7.en... at 41%\
+5	72aa, >pdb4al3.en... at 100%\
+>Cluster 4\
+0	467aa, >pdb1w8q.en... *\
+1	466aa, >pdb2wke.en... at 100%\
+2	466aa, >pdb2xdm.en... at 100%\
+3	466aa, >pdb2xk1.en... at 100%\
+4	467aa, >pdb2xln.en... at 100%\
+>Cluster 5\
+0	450aa, >pdb1hv9.en... at 100%\
+1	452aa, >pdb2oi6.en... *\
+2	450aa, >pdb2oi7.en... at 100%\
+3	450aa, >pdb2v0h.en... at 68%\
+4	70aa, >pdb3dj4.en... at 40%\
+>Cluster 6\
+0	258aa, >pdb1cah.en... *\
+1	258aa, >pdb1rza.en... at 100%\
+2	258aa, >pdb1rzb.en... at 100%\
+3	258aa, >pdb3kok.en... at 100%\
+4	135aa, >pdb3kon.en... at 100%\
+>Cluster 7\
+0	180aa, >pdb2zc1.en... at 57%\
+1	181aa, >pdb3f4c.en... *\
+2	181aa, >pdb3f4d.en... at 100%\
+3	180aa, >pdb3htw.en... at 57%\
+4	181aa, >pdb3tn3.en... at 100%\
+>Cluster 8\
+0	708aa, >pdb1gqi.en... *\
+1	708aa, >pdb1gqj.en... at 100%\
+2	708aa, >pdb1gqk.en... at 100%\
+3	700aa, >pdb1gql.en... at 100%\
+>Cluster 9\
+0	36aa, >pdb1rqb.en... at 100%\
+1	472aa, >pdb1rqe.en... *\
+2	291aa, >pdb1rqh.en... at 100%\
+3	291aa, >pdb1rr2.en... at 100%\
+>Cluster 10\
+0	314aa, >pdb3th7.en... *\
+1	314aa, >pdb3the.en... at 100%\
+2	314aa, >pdb3thh.en... at 100%\
+3	314aa, >pdb3thj.en... at 100%\
+>Cluster 11\
+0	228aa, >pdb1ire.en... at 42%\
+1	226aa, >pdb1ugp.en... at 42%\
+2	229aa, >pdb1v29.en... *\
+3	227aa, >pdb2dpp.en... at 85%\
+>Cluster 12\
+0	213aa, >pdb1cia.en... *\
+1	213aa, >pdb1cla.en... at 99%\
+2	213aa, >pdb2cla.en... at 99%\
+3	213aa, >pdb3cla.en... at 99%\
+>Cluster 13\
+0	172aa, >pdb3ka4.en... at 98%\
+1	172aa, >pdb3ka6.en... at 99%\
+2	172aa, >pdb3ka8.en... at 99%\
+3	173aa, >pdb3ka9.en... *\
+>Cluster 14\
+0	246aa, >pdb1iqx.en... at 100%\
+1	246aa, >pdb1wmn.en... at 100%\
+2	620aa, >pdb1wmp.en... *\
+>Cluster 15\
+0	433aa, >pdb1dy4.en... *\
+1	433aa, >pdb2v3i.en... at 100%\
+2	433aa, >pdb2v3r.en... at 100%\
+>Cluster 16\
+0	295aa, >pdb1xgm.en... *\
+1	295aa, >pdb1xgn.en... at 100%\
+2	295aa, >pdb1xgs.en... at 100%\
+>Cluster 17\
+0	277aa, >pdb3tcy.en... *\
+1	277aa, >pdb3tk2.en... at 98%\
+2	277aa, >pdb3tk4.en... at 98%\
+>Cluster 18\
+0	249aa, >pdb1qxw.en... *\
+1	249aa, >pdb1qxy.en... at 100%\
+2	249aa, >pdb1qxz.en... at 100%\
+>Cluster 19\
+0	208aa, >pdb1qq0.en... at 100%\
+1	210aa, >pdb1qre.en... *\
+2	206aa, >pdb1qrf.en... at 100%\
+>Cluster 20\
+0	208aa, >pdb3v9s.en... at 100%\
+1	209aa, >pdb3v9z.en... *\
+2	208aa, >pdb3va0.en... at 100%\
+>Cluster 21\
+0	193aa, >pdb1zzb.en... *\
+1	97aa, >pdb1zzc.en... at 100%\
+2	26aa, >pdb3sch.en... at 100%\
+>Cluster 22\
+0	189aa, >pdb3i11.en... *\
+1	60aa, >pdb3i14.en... at 100%\
+2	59aa, >pdb3i15.en... at 100%\
+>Cluster 23\
+0	177aa, >pdb2vc5.en... *\
+1	177aa, >pdb2vc7.en... at 100%\
+2	177aa, >pdb3uf9.en... at 100%\
+>Cluster 24\
+0	154aa, >pdb1ycl.en... *\
+1	154aa, >pdb2fqo.en... at 99%\
+2	154aa, >pdb2fqt.en... at 99%\
+>Cluster 25\
+0	150aa, >pdb2j2z.en... *\
+1	149aa, >pdb2xg4.en... at 100%\
+2	11aa, >pdb2xg5.en... at 100%\
+>Cluster 26\
+0	549aa, >pdb3igy.en... *\
+1	549aa, >pdb3igz.en... at 100%\
+>Cluster 27\
+0	518aa, >pdb3sxq.en... at 100%\
+1	520aa, >pdb3ttb.en... *\
+>Cluster 28\
+0	305aa, >pdb1rv8.en... *\
+1	305aa, >pdb1rvg.en... at 100%\
+>Cluster 29\
+0	288aa, >pdb1h0n.en... *\
+1	288aa, >pdb1h0o.en... at 100%\
+>Cluster 30\
+0	271aa, >pdb2dxl.en... at 99%\
+1	274aa, >pdb3d03.en... *\
+>Cluster 31\
+0	269aa, >pdb2cf4.en... *\
+1	210aa, >pdb2wyr.en... at 100%\
+>Cluster 32\
+0	262aa, >pdb2xvy.en... at 100%\
+1	263aa, >pdb2xvz.en... *\
+>Cluster 33\
+0	70aa, >pdb1ens.en... at 100%\
+1	237aa, >pdb1scs.en... *\
+>Cluster 34\
+0	226aa, >pdb2xph.en... *\
+1	226aa, >pdb2xre.en... at 100%\
+>Cluster 35\
+0	224aa, >pdb3h7j.en... *\
+1	222aa, >pdb3h7y.en... at 99%\
+>Cluster 36\
+0	223aa, >pdb1xuh.en... *\
+1	223aa, >pdb2bdi.en... at 40%\
+>Cluster 37\
+0	200aa, >pdb2fdf.en... at 100%\
+1	206aa, >pdb3khb.en... *\
+>Cluster 38\
+0	195aa, >pdb3cak.en... *\
+1	192aa, >pdb3so7.en... at 89%\
+>Cluster 39\
+0	186aa, >pdb3gxk.en... *\
+1	164aa, >pdb3mgw.en... at 61%\
+>Cluster 40\
+0	183aa, >pdb3g5k.en... *\
+1	183aa, >pdb3g5p.en... at 100%\
+>Cluster 41\
+0	157aa, >pdb1jn1.en... *\
+1	52aa, >pdb1t0a.en... at 65%\
+>Cluster 42\
+0	152aa, >pdb2k9c.en... *\
+1	152aa, >pdb2krj.en... at 100%\
+>Cluster 43\
+0	136aa, >pdb1stg.en... *\
+1	136aa, >pdb1sth.en... at 100%\
+>Cluster 44\
+0	129aa, >pdb3az4.en... *\
+1	129aa, >pdb3az6.en... at 100%\
+>Cluster 45\
+0	103aa, >pdb2jk5.en... *\
+1	102aa, >pdb2w0f.en... at 100%\
+>Cluster 46\
+0	80aa, >pdb1fx7.en... *\
+1	80aa, >pdb1u8r.en... at 100%\
+>Cluster 47\
+0	12aa, >pdb3ivs.en... at 100%\
+1	75aa, >pdb3ivu.en... *\
+>Cluster 48\
+0	68aa, >pdb1qv0.en... *\
+1	68aa, >pdb1qv1.en... at 100%\
+>Cluster 49\
+0	48aa, >pdb1ovu.en... *\
+1	48aa, >pdb1ovv.en... at 100%\
+>Cluster 50\
+0	39aa, >pdb2d2x.en... at 100%\
+1	40aa, >pdb2gru.en... *\
+>Cluster 51\
+0	39aa, >pdb1of8.en... *\
+1	35aa, >pdb1ofa.en... at 100%\
+>Cluster 52\
+0	604aa, >pdb3gqa.en... *\
+>Cluster 53\
+0	561aa, >pdb1c4g.en... *\
+>Cluster 54\
+0	528aa, >pdb3h2w.en... *\
+>Cluster 55\
+0	449aa, >pdb1y6v.en... *\
+>Cluster 56\
+0	446aa, >pdb3hjh.en... *\
+>Cluster 57\
+0	443aa, >pdb1a0e.en... *\
+>Cluster 58\
+0	422aa, >pdb1bk5.en... *\
+>Cluster 59\
+0	413aa, >pdb1zjc.en... *\
+>Cluster 60\
+0	406aa, >pdb3n5f.en... *\
+>Cluster 61\
+0	390aa, >pdb1nr5.en... *\
+>Cluster 62\
+0	386aa, >pdb1r6x.en... *\
+>Cluster 63\
+0	379aa, >pdb1ukw.en... *\
+>Cluster 64\
+0	376aa, >pdb3isq.en... *\
+>Cluster 65\
+0	374aa, >pdb3dwc.en... *\
+>Cluster 66\
+0	363aa, >pdb1qk0.en... *\
+>Cluster 67\
+0	356aa, >pdb1wn1.en... *\
+>Cluster 68\
+0	354aa, >pdb1l8x.en... *\
+>Cluster 69\
+0	349aa, >pdb1uv5.en... *\
+>Cluster 70\
+0	343aa, >pdb2yye.en... *\
+>Cluster 71\
+0	342aa, >pdb3gob.en... *\
+>Cluster 72\
+0	332aa, >pdb2hbx.en... *\
+>Cluster 73\
+0	311aa, >pdb3ide.en... *\
+>Cluster 74\
+0	309aa, >pdb3m4z.en... *\
+>Cluster 75\
+0	302aa, >pdb3i8v.en... *\
+>Cluster 76\
+0	291aa, >pdb2icv.en... *\
+>Cluster 77\
+0	291aa, >pdb2prq.en... *\
+>Cluster 78\
+0	284aa, >pdb3mz3.en... *\
+>Cluster 79\
+0	282aa, >pdb1m38.en... *\
+>Cluster 80\
+0	276aa, >pdb1xrc.en... *\
+>Cluster 81\
+0	252aa, >pdb2z06.en... *\
+>Cluster 82\
+0	246aa, >pdb1fof.en... *\
+>Cluster 83\
+0	246aa, >pdb2hn1.en... *\
+>Cluster 84\
+0	243aa, >pdb3vxm.en... *\
+>Cluster 85\
+0	233aa, >pdb1rxt.en... *\
+>Cluster 86\
+0	231aa, >pdb3zr9.en... *\
+>Cluster 87\
+0	229aa, >pdb3rgt.en... *\
+>Cluster 88\
+0	226aa, >pdb1t31.en... *\
+>Cluster 89\
+0	223aa, >pdb3l0s.en... *\
+>Cluster 90\
+0	217aa, >pdb3mf3.en... *\
+>Cluster 91\
+0	216aa, >pdb3s5h.en... *\
+>Cluster 92\
+0	212aa, >pdb2y8u.en... *\
+>Cluster 93\
+0	210aa, >pdb2fua.en... *\
+>Cluster 94\
+0	208aa, >pdb1rmq.en... *\
+>Cluster 95\
+0	205aa, >pdb2c79.en... *\
+>Cluster 96\
+0	205aa, >pdb2os3.en... *\
+>Cluster 97\
+0	204aa, >pdb2xts.en... *\
+>Cluster 98\
+0	200aa, >pdb1iab.en... *\
+>Cluster 99\
+0	199aa, >pdb3w45.en... *\
+>Cluster 100\
+0	195aa, >pdb2r5v.en... *\
+>Cluster 101\
+0	193aa, >pdb3tgh.en... *\
+>Cluster 102\
+0	189aa, >pdb2qtm.en... *\
+>Cluster 103\
+0	188aa, >pdb1vz0.en... *\
+>Cluster 104\
+0	183aa, >pdb1in4.en... *\
+>Cluster 105\
+0	183aa, >pdb2amx.en... *\
+>Cluster 106\
+0	182aa, >pdb3s8k.en... *\
+>Cluster 107\
+0	179aa, >pdb2f7v.en... *\
+>Cluster 108\
+0	177aa, >pdb1k1e.en... *\
+>Cluster 109\
+0	176aa, >pdb2f7n.en... *\
+>Cluster 110\
+0	171aa, >pdb2ps9.en... *\
+>Cluster 111\
+0	168aa, >pdb3qq7.en... *\
+>Cluster 112\
+0	166aa, >pdb1xmh.en... *\
+>Cluster 113\
+0	162aa, >pdb2xdb.en... *\
+>Cluster 114\
+0	158aa, >pdb2bo7.en... *\
+>Cluster 115\
+0	155aa, >pdb2gli.en... *\
+>Cluster 116\
+0	154aa, >pdb3mcr.en... *\
+>Cluster 117\
+0	153aa, >pdb1gwm.en... *\
+>Cluster 118\
+0	151aa, >pdb1cob.en... *\
+>Cluster 119\
+0	151aa, >pdb2xjm.en... *\
+>Cluster 120\
+0	149aa, >pdb2pr1.en... *\
+>Cluster 121\
+0	143aa, >pdb2dds.en... *\
+>Cluster 122\
+0	141aa, >pdb2uzp.en... *\
+>Cluster 123\
+0	138aa, >pdb1e31.en... *\
+>Cluster 124\
+0	137aa, >pdb2dtr.en... *\
+>Cluster 125\
+0	134aa, >pdb3rmu.en... *\
+>Cluster 126\
+0	128aa, >pdb1vlx.en... *\
+>Cluster 127\
+0	126aa, >pdb2ywr.en... *\
+>Cluster 128\
+0	119aa, >pdb2qb7.en... *\
+>Cluster 129\
+0	119aa, >pdb2wno.en... *\
+>Cluster 130\
+0	118aa, >pdb3ta5.en... *\
+>Cluster 131\
+0	115aa, >pdb2opc.en... *\
+>Cluster 132\
+0	112aa, >pdb3bd5.en... *\
+>Cluster 133\
+0	111aa, >pdb2y3b.en... *\
+>Cluster 134\
+0	106aa, >pdb2eff.en... *\
+>Cluster 135\
+0	105aa, >pdb1t5k.en... *\
+>Cluster 136\
+0	104aa, >pdb3lmm.en... *\
+>Cluster 137\
+0	101aa, >pdb3ut1.en... *\
+>Cluster 138\
+0	99aa, >pdb3mgp.en... *\
+>Cluster 139\
+0	98aa, >pdb1rl4.en... *\
+>Cluster 140\
+0	88aa, >pdb2zgg.en... *\
+>Cluster 141\
+0	87aa, >pdb1kej.en... *\
+>Cluster 142\
+0	79aa, >pdb3l48.en... *\
+>Cluster 143\
+0	78aa, >pdb3r61.en... *\
+>Cluster 144\
+0	76aa, >pdb2jf5.en... *\
+>Cluster 145\
+0	73aa, >pdb2vos.en... *\
+>Cluster 146\
+0	71aa, >pdb3r4q.en... *\
+>Cluster 147\
+0	65aa, >pdb1r8k.en... *\
+>Cluster 148\
+0	65aa, >pdb2q6q.en... *\
+>Cluster 149\
+0	55aa, >pdb3ggd.en... *\
+>Cluster 150\
+0	53aa, >pdb1r0h.en... *\
+>Cluster 151\
+0	49aa, >pdb1g16.en... *\
+>Cluster 152\
+0	48aa, >pdb3v1d.en... *\
+>Cluster 153\
+0	45aa, >pdb2j4j.en... *\
+>Cluster 154\
+0	45aa, >pdb2vke.en... *\
+>Cluster 155\
+0	40aa, >pdb3a9i.en... *\
+>Cluster 156\
+0	31aa, >pdb2ehd.en... *\
+>Cluster 157\
+0	30aa, >pdb1m5a.en... *\
+>Cluster 158\
+0	25aa, >pdb2vor.en... *\
+>Cluster 159\
+0	24aa, >pdb1c0w.en... *\
+>Cluster 160\
+0	20aa, >pdb3si8.en... *\
+>Cluster 161\
+0	20aa, >pdb3tr3.en... *\
+>Cluster 162\
+0	17aa, >pdb3hdi.en... *\
+>Cluster 163\
+0	15aa, >pdb3bfq.en... *\
+>Cluster 164\
+0	11aa, >pdb2h9f.en... *\
+}
